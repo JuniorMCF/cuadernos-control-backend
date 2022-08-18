@@ -40,15 +40,35 @@ class AuthController extends Controller
         Enterprise::create([
             'logo' => null,
             'user_id' => $user->id,
+            'coin_id'=>24
         ]);
+
+        if (Auth::attempt(['email' => $request->email, 'password' => $request->password])) {
+            $authUser = Auth::user();
+            $success['token'] =  $authUser->createToken('MyAuthApp')->plainTextToken;
+            $success['user'] =  User::find($authUser->id);
+            return response()->json(
+                [
+                    "data" => [
+                        "token"=>$success['token'],
+                        "user"=>$success['user']
+                    ],
+                    "success" => true,
+                    "message" => "User created succesfully"
+                ]
+            );
+        }
 
         return response()->json(
             [
-                "data" => $user,
-                "success" => true,
-                "message" => "User created succesfully"
+                "data" => null,
+                "success" => false,
+                "message" => "Hubo un problema al momento del registro, intentelo más tarde"
             ]
         );
+
+
+
     }
     public function signIn(Request $request)
     {

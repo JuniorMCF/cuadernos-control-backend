@@ -45,6 +45,7 @@ class RecordController extends Controller
             $client = new Client();
             $client->first_name = $request->first_name;
             $client->dni = $request->dni;
+            $client->description = $request->description;
             $client->enterprise_id = $enterprise->id;
             $client->save();
 
@@ -70,7 +71,8 @@ class RecordController extends Controller
                 'registered_amount'=>$request->amount,
                 "sid"=>$new_sid,
                 'status'=>$request->status,
-                'enterprise_id'=>$enterprise->id
+                'enterprise_id'=>$enterprise->id,
+                'client_description'=>$request->description
             ]);
 
             return response()->json(
@@ -106,7 +108,8 @@ class RecordController extends Controller
             'registered_amount'=>$request->amount,
             'sid'=>$new_sid,
             'status'=>$request->status,
-            'enterprise_id'=>$enterprise->id
+            'enterprise_id'=>$enterprise->id,
+            'client_description'=>$client->description
         ]);
 
         return response()->json(

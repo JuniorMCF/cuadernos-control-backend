@@ -17,7 +17,7 @@ class ProductController extends Controller
 
         $validator = Validator::make($request->all(),[
             'name' => 'sometimes|required|string',
-            'description' => 'required|string',
+
             'price' => 'sometimes|required|numeric|between:0,9999.99',
             'user_id'=>'sometimes|required|string',
         ]);
@@ -56,7 +56,7 @@ class ProductController extends Controller
         $validator = Validator::make($request->all(),[
             'id'=>'sometimes|required|string',
             'name' => 'required|string',
-            'description' => 'sometimes',
+
             'price' => 'sometimes|required|numeric|between:0,9999.99',
         ]);
 

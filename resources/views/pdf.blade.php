@@ -98,7 +98,7 @@
                             </li>
                             <li>
                                 <h5 style="margin:0.5rem 0px;line-height: 1;"><strong>DENOMINACIÓN: </strong>
-                                    <span class="text-grey">{{ $enterprise->address }}</span>
+                                    <span class="text-grey">{{ $client->first_name }}</span>
                                 </h5>
 
                             </li>

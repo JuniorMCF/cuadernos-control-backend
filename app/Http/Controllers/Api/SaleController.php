@@ -46,6 +46,7 @@ class SaleController extends Controller
             $client->first_name = $request->first_name;
             $client->dni = $request->dni;
             $client->enterprise_id = $enterprise->id;
+            $client->description = $request->description;
             $client->save();
 
 
@@ -70,7 +71,8 @@ class SaleController extends Controller
                 'registered_amount'=>$request->amount,
                 "sid"=>$new_sid,
                 'status'=>$request->status,
-                'enterprise_id'=>$enterprise->id
+                'enterprise_id'=>$enterprise->id,
+                'client_description'=>$request->description
             ]);
 
             return response()->json(
@@ -106,7 +108,8 @@ class SaleController extends Controller
             'registered_amount'=>$request->amount,
             'sid'=>$new_sid,
             'status'=>$request->status,
-            'enterprise_id'=>$enterprise->id
+            'enterprise_id'=>$enterprise->id,
+            'client_description'=>$client->description
         ]);
 
         return response()->json(

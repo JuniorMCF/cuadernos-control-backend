@@ -17,6 +17,7 @@ class Client extends Model
         'phone_number_two',
         'dni',
         'enterprise_id',
+        'description'
 
     ];
 }

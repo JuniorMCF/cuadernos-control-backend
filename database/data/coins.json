@@ -1,36 +1,6 @@
 {
   "coins": [
     {
-      "moneda": "AED",
-      "simbolo de dinero": "د.إ",
-      "código": "784",
-      "nombre": "UAE Dirham"
-    },
-    {
-      "moneda": "AFN",
-      "simbolo de dinero": "Af",
-      "código": "971",
-      "nombre": "Afghani"
-    },
-    {
-      "moneda": "ALL",
-      "simbolo de dinero": "L",
-      "código": "008",
-      "nombre": "Lek"
-    },
-    {
-      "moneda": "AMD",
-      "simbolo de dinero": "Դ",
-      "código": "051",
-      "nombre": "Armenian Dram"
-    },
-    {
-      "moneda": "AOA",
-      "simbolo de dinero": "Kz",
-      "código": "973",
-      "nombre": "Kwanza"
-    },
-    {
       "moneda": "ARS",
       "simbolo de dinero": "$",
       "código": "032",
@@ -42,60 +12,7 @@
       "código": "036",
       "nombre": "Australian Dollar"
     },
-    {
-      "moneda": "AWG",
-      "simbolo de dinero": "ƒ",
-      "código": "533",
-      "nombre": "Aruban Guilder/Florin"
-    },
-    {
-      "moneda": "AZN",
-      "simbolo de dinero": "ман",
-      "código": "944",
-      "nombre": "Azerbaijanian Manat"
-    },
-    {
-      "moneda": "BAM",
-      "simbolo de dinero": "КМ",
-      "código": "977",
-      "nombre": "Konvertibilna Marka"
-    },
-    {
-      "moneda": "BBD",
-      "simbolo de dinero": "$",
-      "código": "052",
-      "nombre": "Barbados Dollar"
-    },
-    {
-      "moneda": "BDT",
-      "simbolo de dinero": "৳",
-      "código": "050",
-      "nombre": "Taka"
-    },
-    {
-      "moneda": "BGN",
-      "simbolo de dinero": "лв",
-      "código": "975",
-      "nombre": "Bulgarian Lev"
-    },
-    {
-      "moneda": "BHD",
-      "simbolo de dinero": "ب.د",
-      "código": "048",
-      "nombre": "Bahraini Dinar"
-    },
-    {
-      "moneda": "BIF",
-      "simbolo de dinero": "₣",
-      "código": "108",
-      "nombre": "Burundi Franc"
-    },
-    {
-      "moneda": "BMD",
-      "simbolo de dinero": "$",
-      "código": "060",
-      "nombre": "Bermudian Dollar"
-    },
+
     {
       "moneda": "BND",
       "simbolo de dinero": "$",
@@ -120,18 +37,7 @@
       "código": "044",
       "nombre": "Bahamian Dollar"
     },
-    {
-      "moneda": "BTN",
-      "simbolo de dinero": "",
-      "código": "064",
-      "nombre": "Ngultrum"
-    },
-    {
-      "moneda": "BWP",
-      "simbolo de dinero": "P",
-      "código": "072",
-      "nombre": "Pula"
-    },
+
     {
       "moneda": "BYN",
       "simbolo de dinero": "Br",
@@ -150,18 +56,7 @@
       "código": "124",
       "nombre": "Canadian Dollar"
     },
-    {
-      "moneda": "CDF",
-      "simbolo de dinero": "₣",
-      "código": "976",
-      "nombre": "Congolese Franc"
-    },
-    {
-      "moneda": "CHF",
-      "simbolo de dinero": "₣",
-      "código": "756",
-      "nombre": "Swiss Franc"
-    },
+
     {
       "moneda": "CLP",
       "simbolo de dinero": "$",
@@ -192,59 +87,12 @@
       "código": "192",
       "nombre": "Cuban Peso"
     },
-    {
-      "moneda": "CVE",
-      "simbolo de dinero": "$",
-      "código": "132",
-      "nombre": "Cape Verde Escudo"
-    },
-    {
-      "moneda": "CZK",
-      "simbolo de dinero": "Kč",
-      "código": "203",
-      "nombre": "Czech Koruna"
-    },
-    {
-      "moneda": "DJF",
-      "simbolo de dinero": "₣",
-      "código": "262",
-      "nombre": "Djibouti Franc"
-    },
-    {
-      "moneda": "DKK",
-      "simbolo de dinero": "kr",
-      "código": "208",
-      "nombre": "Danish Krone"
-    },
+
     {
       "moneda": "DOP",
       "simbolo de dinero": "$",
       "código": "214",
       "nombre": "Dominican Peso"
-    },
-    {
-      "moneda": "DZD",
-      "simbolo de dinero": "د.ج",
-      "código": "012",
-      "nombre": "Algerian Dinar"
-    },
-    {
-      "moneda": "EGP",
-      "simbolo de dinero": "£",
-      "código": "818",
-      "nombre": "Egyptian Pound"
-    },
-    {
-      "moneda": "ERN",
-      "simbolo de dinero": "Nfk",
-      "código": "232",
-      "nombre": "Nakfa"
-    },
-    {
-      "moneda": "ETB",
-      "simbolo de dinero": "",
-      "código": "230",
-      "nombre": "Ethiopian Birr"
     },
     {
       "moneda": "EUR",
@@ -258,102 +106,14 @@
       "código": "242",
       "nombre": "Fiji Dollar"
     },
-    {
-      "moneda": "FKP",
-      "simbolo de dinero": "£",
-      "código": "238",
-      "nombre": "Falkland Islands Pound"
-    },
-    {
-      "moneda": "GBP",
-      "simbolo de dinero": "£",
-      "código": "826",
-      "nombre": "Pound Sterling"
-    },
-    {
-      "moneda": "GEL",
-      "simbolo de dinero": "ლ",
-      "código": "981",
-      "nombre": "Lari"
-    },
-    {
-      "moneda": "GHS",
-      "simbolo de dinero": "₵",
-      "código": "936",
-      "nombre": "Cedi"
-    },
-    {
-      "moneda": "GIP",
-      "simbolo de dinero": "£",
-      "código": "292",
-      "nombre": "Gibraltar Pound"
-    },
-    {
-      "moneda": "GMD",
-      "simbolo de dinero": "D",
-      "código": "270",
-      "nombre": "Dalasi"
-    },
-    {
-      "moneda": "GNF",
-      "simbolo de dinero": "₣",
-      "código": "324",
-      "nombre": "Guinea Franc"
-    },
-    {
-      "moneda": "GTQ",
-      "simbolo de dinero": "Q",
-      "código": "320",
-      "nombre": "Quetzal"
-    },
-    {
-      "moneda": "GYD",
-      "simbolo de dinero": "$",
-      "código": "328",
-      "nombre": "Guyana Dollar"
-    },
-    {
-      "moneda": "HKD",
-      "simbolo de dinero": "$",
-      "código": "344",
-      "nombre": "Hong Kong Dollar"
-    },
-    {
-      "moneda": "HNL",
-      "simbolo de dinero": "L",
-      "código": "340",
-      "nombre": "Lempira"
-    },
-    {
-      "moneda": "HRK",
-      "simbolo de dinero": "Kn",
-      "código": "191",
-      "nombre": "Croatian Kuna"
-    },
-    {
-      "moneda": "HTG",
-      "simbolo de dinero": "G",
-      "código": "332",
-      "nombre": "Gourde"
-    },
-    {
-      "moneda": "HUF",
-      "simbolo de dinero": "Ft",
-      "código": "348",
-      "nombre": "Forint"
-    },
+
     {
       "moneda": "IDR",
       "simbolo de dinero": "Rp",
       "código": "360",
       "nombre": "Rupiah"
     },
-    {
-      "moneda": "ILS",
-      "simbolo de dinero": "₪",
-      "código": "376",
-      "nombre": "New Israeli Shekel"
-    },
+
     {
       "moneda": "INR",
       "simbolo de dinero": "₹",
@@ -361,466 +121,53 @@
       "nombre": "Indian Rupee"
     },
     {
-      "moneda": "IQD",
-      "simbolo de dinero": "ع.د",
-      "código": "368",
-      "nombre": "Iraqi Dinar"
-    },
-    {
-      "moneda": "IRR",
-      "simbolo de dinero": "﷼",
-      "código": "364",
-      "nombre": "Iranian Rial"
-    },
-    {
-      "moneda": "ISK",
-      "simbolo de dinero": "Kr",
-      "código": "352",
-      "nombre": "Iceland Krona"
-    },
-    {
       "moneda": "JMD",
       "simbolo de dinero": "$",
       "código": "388",
       "nombre": "Jamaican Dollar"
     },
-    {
-      "moneda": "JOD",
-      "simbolo de dinero": "د.ا",
-      "código": "400",
-      "nombre": "Jordanian Dinar"
-    },
+
     {
       "moneda": "JPY",
       "simbolo de dinero": "¥",
       "código": "392",
       "nombre": "Yen"
     },
-    {
-      "moneda": "KES",
-      "simbolo de dinero": "Sh",
-      "código": "404",
-      "nombre": "Kenyan Shilling"
-    },
-    {
-      "moneda": "KGS",
-      "simbolo de dinero": "",
-      "código": "417",
-      "nombre": "Som"
-    },
-    {
-      "moneda": "KHR",
-      "simbolo de dinero": "៛",
-      "código": "116",
-      "nombre": "Riel"
-    },
-    {
-      "moneda": "KPW",
-      "simbolo de dinero": "₩",
-      "código": "408",
-      "nombre": "North Korean Won"
-    },
-    {
-      "moneda": "KRW",
-      "simbolo de dinero": "₩",
-      "código": "410",
-      "nombre": "South Korean Won"
-    },
-    {
-      "moneda": "KWD",
-      "simbolo de dinero": "د.ك",
-      "código": "414",
-      "nombre": "Kuwaiti Dinar"
-    },
-    {
-      "moneda": "KYD",
-      "simbolo de dinero": "$",
-      "código": "136",
-      "nombre": "Cayman Islands Dollar"
-    },
-    {
-      "moneda": "KZT",
-      "simbolo de dinero": "〒",
-      "código": "398",
-      "nombre": "Tenge"
-    },
-    {
-      "moneda": "LAK",
-      "simbolo de dinero": "₭",
-      "código": "418",
-      "nombre": "Kip"
-    },
-    {
-      "moneda": "LBP",
-      "simbolo de dinero": "ل.ل",
-      "código": "422",
-      "nombre": "Lebanese Pound"
-    },
-    {
-      "moneda": "LKR",
-      "simbolo de dinero": "Rs",
-      "código": "144",
-      "nombre": "Sri Lanka Rupee"
-    },
-    {
-      "moneda": "LRD",
-      "simbolo de dinero": "$",
-      "código": "430",
-      "nombre": "Liberian Dollar"
-    },
-    {
-      "moneda": "LSL",
-      "simbolo de dinero": "L",
-      "código": "426",
-      "nombre": "Loti"
-    },
-    {
-      "moneda": "LYD",
-      "simbolo de dinero": "ل.د",
-      "código": "434",
-      "nombre": "Libyan Dinar"
-    },
-    {
-      "moneda": "MAD",
-      "simbolo de dinero": "د.م.",
-      "código": "504",
-      "nombre": "Moroccan Dirham"
-    },
-    {
-      "moneda": "MDL",
-      "simbolo de dinero": "L",
-      "código": "498",
-      "nombre": "Moldovan Leu"
-    },
-    {
-      "moneda": "MGA",
-      "simbolo de dinero": "",
-      "código": "969",
-      "nombre": "Malagasy Ariary"
-    },
-    {
-      "moneda": "MKD",
-      "simbolo de dinero": "ден",
-      "código": "807",
-      "nombre": "Denar"
-    },
-    {
-      "moneda": "MMK",
-      "simbolo de dinero": "K",
-      "código": "104",
-      "nombre": "Kyat"
-    },
-    {
-      "moneda": "MNT",
-      "simbolo de dinero": "₮",
-      "código": "496",
-      "nombre": "Tugrik"
-    },
-    {
-      "moneda": "MOP",
-      "simbolo de dinero": "P",
-      "código": "446",
-      "nombre": "Pataca"
-    },
-    {
-      "moneda": "MRU",
-      "simbolo de dinero": "UM",
-      "código": "929",
-      "nombre": "Ouguiya"
-    },
-    {
-      "moneda": "MUR",
-      "simbolo de dinero": "₨",
-      "código": "480",
-      "nombre": "Mauritius Rupee"
-    },
-    {
-      "moneda": "MVR",
-      "simbolo de dinero": "ރ.",
-      "código": "462",
-      "nombre": "Rufiyaa"
-    },
-    {
-      "moneda": "MWK",
-      "simbolo de dinero": "MK",
-      "código": "454",
-      "nombre": "Kwacha"
-    },
+
     {
       "moneda": "MXN",
       "simbolo de dinero": "$",
       "código": "484",
       "nombre": "Mexican Peso"
     },
-    {
-      "moneda": "MYR",
-      "simbolo de dinero": "RM",
-      "código": "458",
-      "nombre": "Malaysian Ringgit"
-    },
-    {
-      "moneda": "MZN",
-      "simbolo de dinero": "MTn",
-      "código": "943",
-      "nombre": "Metical"
-    },
-    {
-      "moneda": "NAD",
-      "simbolo de dinero": "$",
-      "código": "516",
-      "nombre": "Namibia Dollar"
-    },
-    {
-      "moneda": "NGN",
-      "simbolo de dinero": "₦",
-      "código": "566",
-      "nombre": "Naira"
-    },
-    {
-      "moneda": "NIO",
-      "simbolo de dinero": "C$",
-      "código": "558",
-      "nombre": "Cordoba Oro"
-    },
-    {
-      "moneda": "NOK",
-      "simbolo de dinero": "kr",
-      "código": "578",
-      "nombre": "Norwegian Krone"
-    },
-    {
-      "moneda": "NPR",
-      "simbolo de dinero": "₨",
-      "código": "524",
-      "nombre": "Nepalese Rupee"
-    },
+
     {
       "moneda": "NZD",
       "simbolo de dinero": "$",
       "código": "554",
       "nombre": "New Zealand Dollar"
     },
-    {
-      "moneda": "OMR",
-      "simbolo de dinero": "ر.ع.",
-      "código": "512",
-      "nombre": "Rial Omani"
-    },
-    {
-      "moneda": "PAB",
-      "simbolo de dinero": "B/.",
-      "código": "590",
-      "nombre": "Balboa"
-    },
+
     {
       "moneda": "PEN",
       "simbolo de dinero": "S/.",
       "código": "604",
       "nombre": "Nuevo Sol"
     },
-    {
-      "moneda": "PGK",
-      "simbolo de dinero": "K",
-      "código": "598",
-      "nombre": "Kina"
-    },
-    {
-      "moneda": "PHP",
-      "simbolo de dinero": "₱",
-      "código": "608",
-      "nombre": "Philippine Peso"
-    },
-    {
-      "moneda": "PKR",
-      "simbolo de dinero": "₨",
-      "código": "586",
-      "nombre": "Pakistan Rupee"
-    },
-    {
-      "moneda": "PLN",
-      "simbolo de dinero": "zł",
-      "código": "985",
-      "nombre": "PZloty"
-    },
+
     {
       "moneda": "PYG",
       "simbolo de dinero": "₲",
       "código": "600",
       "nombre": "Guarani"
     },
-    {
-      "moneda": "QAR",
-      "simbolo de dinero": "ر.ق",
-      "código": "634",
-      "nombre": "Qatari Rial"
-    },
-    {
-      "moneda": "RON",
-      "simbolo de dinero": "L",
-      "código": "946",
-      "nombre": "Leu"
-    },
-    {
-      "moneda": "RSD",
-      "simbolo de dinero": "din",
-      "código": "941",
-      "nombre": "Serbian Dinar"
-    },
+
+
     {
       "moneda": "RUB",
       "simbolo de dinero": "р. ",
       "código": "643",
       "nombre": "Russian Ruble"
-    },
-    {
-      "moneda": "RWF",
-      "simbolo de dinero": "₣",
-      "código": "646",
-      "nombre": "Rwanda Franc"
-    },
-    {
-      "moneda": "SAR",
-      "simbolo de dinero": "ر.س",
-      "código": "682",
-      "nombre": "Saudi Riyal"
-    },
-    {
-      "moneda": "SBD",
-      "simbolo de dinero": "$",
-      "código": "090",
-      "nombre": "Solomon Islands Dollar"
-    },
-    {
-      "moneda": "SCR",
-      "simbolo de dinero": "₨",
-      "código": "690",
-      "nombre": "Seychelles Rupee"
-    },
-    {
-      "moneda": "SDG",
-      "simbolo de dinero": "£",
-      "código": "938",
-      "nombre": "Sudanese Pound"
-    },
-    {
-      "moneda": "SEK",
-      "simbolo de dinero": "kr",
-      "código": "752",
-      "nombre": "Swedish Krona"
-    },
-    {
-      "moneda": "SGD",
-      "simbolo de dinero": "$",
-      "código": "702",
-      "nombre": "Singapore Dollar"
-    },
-    {
-      "moneda": "SHP",
-      "simbolo de dinero": "£",
-      "código": "654",
-      "nombre": "Saint Helena Pound"
-    },
-    {
-      "moneda": "SLL",
-      "simbolo de dinero": "Le",
-      "código": "694",
-      "nombre": "Leone"
-    },
-    {
-      "moneda": "SOS",
-      "simbolo de dinero": "Sh",
-      "código": "706",
-      "nombre": "Somali Shilling"
-    },
-    {
-      "moneda": "SRD",
-      "simbolo de dinero": "$",
-      "código": "968",
-      "nombre": "Suriname Dollar"
-    },
-    {
-      "moneda": "STN",
-      "simbolo de dinero": "Db",
-      "código": "930",
-      "nombre": "Dobra"
-    },
-    {
-      "moneda": "SYP",
-      "simbolo de dinero": "ل.س",
-      "código": "760",
-      "nombre": "Syrian Pound"
-    },
-    {
-      "moneda": "SZL",
-      "simbolo de dinero": "L",
-      "código": "748",
-      "nombre": "Lilangeni"
-    },
-    {
-      "moneda": "THB",
-      "simbolo de dinero": "฿",
-      "código": "764",
-      "nombre": "Baht"
-    },
-    {
-      "moneda": "TJS",
-      "simbolo de dinero": "ЅМ",
-      "código": "972",
-      "nombre": "Somoni"
-    },
-    {
-      "moneda": "TMT",
-      "simbolo de dinero": "m",
-      "código": "934",
-      "nombre": "Manat"
-    },
-    {
-      "moneda": "TND",
-      "simbolo de dinero": "د.ت",
-      "código": "788",
-      "nombre": "Tunisian Dinar"
-    },
-    {
-      "moneda": "TOP",
-      "simbolo de dinero": "T$",
-      "código": "776",
-      "nombre": "Pa’anga"
-    },
-    {
-      "moneda": "TRY",
-      "simbolo de dinero": "₤",
-      "código": "949",
-      "nombre": "Turkish Lira"
-    },
-    {
-      "moneda": "TTD",
-      "simbolo de dinero": "$",
-      "código": "780",
-      "nombre": "Trinidad and Tobago Dollar"
-    },
-    {
-      "moneda": "TWD",
-      "simbolo de dinero": "$",
-      "código": "901",
-      "nombre": "Taiwan Dollar"
-    },
-    {
-      "moneda": "TZS",
-      "simbolo de dinero": "Sh",
-      "código": "834",
-      "nombre": "Tanzanian Shilling"
-    },
-    {
-      "moneda": "UAH",
-      "simbolo de dinero": "₴",
-      "código": "980",
-      "nombre": "Hryvnia"
-    },
-    {
-      "moneda": "UGX",
-      "simbolo de dinero": "Sh",
-      "código": "800",
-      "nombre": "Uganda Shilling"
     },
     {
       "moneda": "USD",
@@ -835,34 +182,10 @@
       "nombre": "Peso Uruguayo"
     },
     {
-      "moneda": "UZS",
-      "simbolo de dinero": "",
-      "código": "860",
-      "nombre": "Uzbekistan Sum"
-    },
-    {
       "moneda": "VEF",
       "simbolo de dinero": "Bs F",
       "código": "937",
       "nombre": "Bolivar Fuerte"
-    },
-    {
-      "moneda": "VND",
-      "simbolo de dinero": "₫",
-      "código": "704",
-      "nombre": "Dong"
-    },
-    {
-      "moneda": "VUV",
-      "simbolo de dinero": "Vt",
-      "código": "548",
-      "nombre": "Vatu"
-    },
-    {
-      "moneda": "WST",
-      "simbolo de dinero": "T",
-      "código": "882",
-      "nombre": "Tala"
     },
     {
       "moneda": "XAF",
@@ -875,36 +198,6 @@
       "simbolo de dinero": "$",
       "código": "951",
       "nombre": "East Caribbean Dollar"
-    },
-    {
-      "moneda": "XPF",
-      "simbolo de dinero": "₣",
-      "código": "953",
-      "nombre": "CFP Franc"
-    },
-    {
-      "moneda": "YER",
-      "simbolo de dinero": "﷼",
-      "código": "886",
-      "nombre": "Yemeni Rial"
-    },
-    {
-      "moneda": "ZAR",
-      "simbolo de dinero": "R",
-      "código": "710",
-      "nombre": "Rand"
-    },
-    {
-      "moneda": "ZMW",
-      "simbolo de dinero": "ZK",
-      "código": "967",
-      "nombre": "Zambian Kwacha"
-    },
-    {
-      "moneda": "ZWL",
-      "simbolo de dinero": "$",
-      "código": "932",
-      "nombre": "Zimbabwe Dollar"
     }
   ]
 }

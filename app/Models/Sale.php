@@ -25,5 +25,7 @@ class Sale extends Model
         'invoice_id',
         'invoice',
         "status",
+        "serie",
+        "client_description"
     ];
 }

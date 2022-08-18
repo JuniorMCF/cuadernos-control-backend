@@ -84,6 +84,7 @@ Route::middleware('auth:sanctum')->group( function () {
     /**invoice and ticket */
 
     Route::post("generate/invoice/ticket",[InvoiceController::class,'generate']);
+    Route::post("generate/copy/invoice/ticket",[InvoiceController::class,"rebuildGenerate"]);
 
     /**statistics */
     Route::post("statistics",[StatisticController::class,"show"]);
